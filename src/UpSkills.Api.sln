@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpSkills.Api", "UpSkills.Api\UpSkills.Api.csproj", "{DBAF06ED-9B4E-47F0-B1BF-7F85FAD504AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAF06ED-9B4E-47F0-B1BF-7F85FAD504AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAF06ED-9B4E-47F0-B1BF-7F85FAD504AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAF06ED-9B4E-47F0-B1BF-7F85FAD504AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAF06ED-9B4E-47F0-B1BF-7F85FAD504AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D18FB9FE-09E6-485C-ADBD-956BCBAF135D}
+	EndGlobalSection
+EndGlobal

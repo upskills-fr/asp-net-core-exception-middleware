@@ -10,7 +10,7 @@ namespace UpSkills.Api.Controllers
         [HttpGet("")]
         public IAsyncResult Get()
         {
-            throw new AlgoComputeException("Invalid Number Exception Message", new AlgoComputeErrorDetails("data1", 1));
+            throw new AlgoComputeException("Algo Compute Exception Message", new AlgoComputeErrorDetails("data1", 1));
         }
     }
 }
